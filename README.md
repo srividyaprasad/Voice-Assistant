@@ -1,1 +1,45 @@
 # voice_assistant
+Replica of Siri or Alexa on Python with more than 20 functionalities.
+Also added optional Tkinter GUI alternatives for user's convenience. 
+Future enhancements - Home Automation with Voice assistant using IoT
+
+Functionalities of JARVIS, the Personal Voice Assistant:
+Set alarm at entered time
+Add, remove and read out items in grocery list
+Add, remove and read out tasks in to do list
+Tell the weather in a city and country
+Translate something to desired language 
+Give the meaning of a word 
+Tell a joke
+Tell the time and date
+Locate place
+Calculate simple math operations
+Calculator GUI for longer calculations
+Take a picture from webcam
+Play, pause and stop songs from playlist
+Stream live video from webcam
+Sending whatsapp message
+Make searches on Google, WikiPedia and Youtube
+Open applications like MS Word, PPT, Excel
+Play a game
+Search unrecognised commands on google
+
+----------------------------------------------------------------
+Future enhancements:
+Telling the current trending news using a public news api
+More detailed whatsapp message delivery by specifying contact, message and time
+Playing songs from spotify or youtube instead of downloaded mp3 files
+Reading out wikipedia pages 
+Including forward, back buttons and songslider in Music Player
+HOME AUTOMATION (IoT)
+
+----------------------------------------------------------------
+Modules used: 
+SpeechRecognition, pyttsx3, playsound, pyjokes, tkinter, datetime, os, pywhatkit
+operator, PyDictionary, requests, json, OpenCV, translate, pygame, random
+Files writing, appending, reading
+Functions and function arguments
+GUI tkinter 
+Loops and conditional constructs - if elif else, while, break
+Lambda function
+Lists, Strings
