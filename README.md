@@ -23,23 +23,3 @@ Make searches on Google, WikiPedia and Youtube
 Open applications like MS Word, PPT, Excel
 Play a game
 Search unrecognised commands on google
-
-----------------------------------------------------------------
-Future enhancements:
-Telling the current trending news using a public news api
-More detailed whatsapp message delivery by specifying contact, message and time
-Playing songs from spotify or youtube instead of downloaded mp3 files
-Reading out wikipedia pages 
-Including forward, back buttons and songslider in Music Player
-HOME AUTOMATION (IoT)
-
-----------------------------------------------------------------
-Modules used: 
-SpeechRecognition, pyttsx3, playsound, pyjokes, tkinter, datetime, os, pywhatkit
-operator, PyDictionary, requests, json, OpenCV, translate, pygame, random
-Files writing, appending, reading
-Functions and function arguments
-GUI tkinter 
-Loops and conditional constructs - if elif else, while, break
-Lambda function
-Lists, Strings
