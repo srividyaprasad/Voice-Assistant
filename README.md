@@ -23,3 +23,5 @@ Make searches on Google, WikiPedia and Youtube
 Open applications like MS Word, PPT, Excel
 Play a game
 Search unrecognised commands on google
+
+To use the assistant, clone all files into one folder, create 2 empty subfolders named My Music and My Gallery and run 1maincode.py
