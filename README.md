@@ -1,4 +1,5 @@
 # voice_assistant
+College Mini Project
 Replica of Siri or Alexa on Python with more than 20 functionalities.
 Also added optional Tkinter GUI alternatives for user's convenience. 
 Future enhancements - Home Automation with Voice assistant using IoT
